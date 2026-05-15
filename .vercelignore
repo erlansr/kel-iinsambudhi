@@ -1,0 +1,7 @@
+.env 
+node_modules/ 
+storage/ 
+tests/ 
+vendor/ 
+.git/ 
+*.sqlite 
